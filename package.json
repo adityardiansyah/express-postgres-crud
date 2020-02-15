@@ -1,0 +1,22 @@
+{
+  "name": "express_postgre_crud",
+  "version": "1.0.0",
+  "description": "Simple Web CRUD with Express and Database Postgres",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Aditya Ardiansyah",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "*",
+    "consolidate": "*",
+    "dust": "*",
+    "dustjs-helpers": "*",
+    "dustjs-linkedin": "*",
+    "express": "*",
+    "express-fileupload": "^1.1.6",
+    "nodemon": "*",
+    "pg": "*"
+  }
+}
